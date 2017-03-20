@@ -13,11 +13,13 @@ This game is designed to randomly generate boards up to an infinite size, with e
 
 Instructions
 ------------
-![12 card example](https://github.com/ahakone/matchit/tree/master/images/12_tiles.png"12 card example")
+![12 card example]
+(https://github.com/ahakone/matchit/tree/master/images/12_tiles.png)
 
 The user interactions are very simple -- tap a card to choose it, and after tapping two different cards they will both flip over and be compared. 
 If they are the same they will be removed from the board and the player is one step closer to winning.
 If they are not the same then the player will lose time to complete the board. 
-![20 card example](https://github.com/ahakone/matchit/tree/master/images/20_tiles.png"20 card example")
+![20 card example]
+(https://github.com/ahakone/matchit/tree/master/images/20_tiles.png)
 The objective of the game is to match all of the cards in a given board without running out of time and advance to the next board. 
 There are three boards in total, and each board contains more card-pairs than the last, making the game increasingly difficult. 

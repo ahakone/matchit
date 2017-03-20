@@ -2,7 +2,8 @@ MatchIt
 ==========
 Collaborators: Rebecca Howarth, Sam Weiss
 
-<img src="images/12_tiles.png" style="margin: auto">
+<img src="images/12_tiles.png">
+<img src="images/20_tiles.png">
 
 Description
 ------------
@@ -19,6 +20,4 @@ The user interactions are very simple -- tap a card to choose it, and after tapp
 If they are the same they will be removed from the board and the player is one step closer to winning.
 If they are not the same then the player will lose time to complete the board. 
 The objective of the game is to match all of the cards in a given board without running out of time and advance to the next board. 
-<img src="images/20_tiles.png">
-
 There are three boards in total, and each board contains more card-pairs than the last, making the game increasingly difficult. 

@@ -1,0 +1,29 @@
+body {
+  	font-family: "Trebuchet MS", Helvetica, sans-serif;
+  	line-height: 1.5; 
+  	margin: 5%;
+}
+
+.title {
+	text-align: center;
+	font-size: 50px;
+	margin-bottom: 5%;
+}
+
+#names {
+	font-size: 15px;
+}
+
+.overview {
+	float: left;
+	width: 55%;
+}
+
+.instructions {
+	float: left;
+	width: 50%;
+}
+
+#example1 {
+	float: right;
+}

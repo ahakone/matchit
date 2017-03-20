@@ -3,7 +3,6 @@ MatchIt
 Collaborators: Rebecca Howarth, Sam Weiss
 
 <img src="images/12_tiles.png">
-<img src="images/20_tiles.png">
 
 Description
 ------------

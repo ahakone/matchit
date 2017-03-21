@@ -2,7 +2,7 @@ MatchIt
 ==========
 Collaborators: Rebecca Howarth, Sam Weiss
 
-<img src="images/12_tiles.png">
+<img src="archive/12_tiles.png">
 
 Description
 ------------
